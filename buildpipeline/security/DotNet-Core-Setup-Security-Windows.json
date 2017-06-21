@@ -46,7 +46,7 @@
                 "logProjectEvents": "false",
                 "createLogFile": "false"
               }
-        }
+        },
         {
             "enabled": true,
             "continueOnError": true,

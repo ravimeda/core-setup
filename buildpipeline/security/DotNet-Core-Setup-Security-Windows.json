@@ -495,16 +495,16 @@
     ],
     "_links": {
         "self": {
-            "href": "https://devdiv.visualstudio.com/0bdbc590-a062-4c3f-b0f6-9383f67865ee/_apis/build/Definitions/6659"
+            "href": "https://devdiv.visualstudio.com/0bdbc590-a062-4c3f-b0f6-9383f67865ee/_apis/build/Definitions/6661"
         },
         "web": {
-            "href": "https://devdiv.visualstudio.com/_permalink/_build/index?collectionId=011b8bdf-6d56-4f87-be0d-0092136884d9&projectId=0bdbc590-a062-4c3f-b0f6-9383f67865ee&definitionId=6659"
+            "href": "https://devdiv.visualstudio.com/_permalink/_build/index?collectionId=011b8bdf-6d56-4f87-be0d-0092136884d9&projectId=0bdbc590-a062-4c3f-b0f6-9383f67865ee&definitionId=6661"
         },
         "editor": {
-            "href": "https://devdiv.visualstudio.com/_permalink/_build/definitionEditor?collectionId=011b8bdf-6d56-4f87-be0d-0092136884d9&projectId=0bdbc590-a062-4c3f-b0f6-9383f67865ee&definitionId=6659"
+            "href": "https://devdiv.visualstudio.com/_permalink/_build/definitionEditor?collectionId=011b8bdf-6d56-4f87-be0d-0092136884d9&projectId=0bdbc590-a062-4c3f-b0f6-9383f67865ee&definitionId=6661"
         },
         "badge": {
-            "href": "https://devdiv.visualstudio.com/_apis/public/build/definitions/0bdbc590-a062-4c3f-b0f6-9383f67865ee/6659/badge"
+            "href": "https://devdiv.visualstudio.com/_apis/public/build/definitions/0bdbc590-a062-4c3f-b0f6-9383f67865ee/6661/badge"
         }
     },
     "buildNumberFormat": "$(date:yyyyMMdd)$(rev:-rr)",
@@ -523,35 +523,27 @@
             "checkoutNestedSubmodules": "false",
             "fetchDepth": "0"
         },
-        "id": "58fa2458-e392-4373-ba2b-dd3ef0c2d7ce",
-        "type": "TfsGit",
-        "name": "DotNet-Core-Setup-Trusted",
-        "url": "https://devdiv.visualstudio.com/DevDiv/_git/DotNet-Core-Setup-Trusted",
-        "defaultBranch": "refs/heads/master",
-        "clean": "true",
-        "checkoutSubmodules": false
-    },
+    "id": "c19ea379-feb7-4ca5-8f7f-5f2b5095ea62",
+    "type": "TfsGit",
+    "name": "DotNet-Core-Setup-Trusted",
+    "url": "https://devdiv.visualstudio.com/DevDiv/_git/DotNet-Core-Setup-Trusted",
+    "defaultBranch": "refs/heads/master",
+    "clean": "false",
+    "checkoutSubmodules": false
+  },
     "processParameters": {},
     "quality": 1,
     "authoredBy": {
-        "id": "9d5fdf9f-36b6-4d0c-a12e-2737a673af94",
-        "displayName": "Ravi Eda",
-        "uniqueName": "raeda@microsoft.com",
-        "url": "https://app.vssps.visualstudio.com/Aa44b2c06-f247-425c-8464-4a0676af910a/_apis/Identities/9d5fdf9f-36b6-4d0c-a12e-2737a673af94",
-        "imageUrl": "https://devdiv.visualstudio.com/_api/_common/identityImage?id=9d5fdf9f-36b6-4d0c-a12e-2737a673af94"
+    "id": "9d5fdf9f-36b6-4d0c-a12e-2737a673af94",
+    "displayName": "Ravi Eda",
+    "uniqueName": "raeda@microsoft.com",
+    "url": "https://app.vssps.visualstudio.com/Aa44b2c06-f247-425c-8464-4a0676af910a/_apis/Identities/9d5fdf9f-36b6-4d0c-a12e-2737a673af94",
+    "imageUrl": "https://devdiv.visualstudio.com/_api/_common/identityImage?id=9d5fdf9f-36b6-4d0c-a12e-2737a673af94"
     },
-    "queue": {
-        "id": 36,
-        "name": "DotNet-Build",
-        "pool": {
-            "id": 39,
-            "name": "DotNet-Build"
-        }
-    },
-    "id": 6659,
+    "id": 6661,
     "name": "DotNet-Core-Setup-Security-Windows",
-    "url": "https://devdiv.visualstudio.com/0bdbc590-a062-4c3f-b0f6-9383f67865ee/_apis/build/Definitions/6659",
-    "uri": "vstfs:///Build/Definition/6659",
+    "url": "https://devdiv.visualstudio.com/0bdbc590-a062-4c3f-b0f6-9383f67865ee/_apis/build/Definitions/6661",
+    "uri": "vstfs:///Build/Definition/6661",
     "path": "\\",
     "type": 2,
     "revision": 2,

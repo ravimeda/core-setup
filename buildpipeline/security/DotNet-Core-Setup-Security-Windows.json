@@ -528,7 +528,7 @@
     "name": "DotNet-Core-Setup-Trusted",
     "url": "https://devdiv.visualstudio.com/DevDiv/_git/DotNet-Core-Setup-Trusted",
     "defaultBranch": "refs/heads/master",
-    "clean": "false",
+    "clean": "true",
     "checkoutSubmodules": false
   },
     "processParameters": {},
